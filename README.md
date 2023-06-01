@@ -27,5 +27,5 @@ I am going to use the following tech stack for this project.
 ## Sub-problems to solve
 
 1. Create the front end of the login page using Vue.JS. The login page should do two jobs, sign-in and sign-up.
-   1. For sign-in, you should have a textbox for username and the website should send your 
+   1. For sign-in, you should have a textbox for the username and the website should send your 
 2. Create the backend using Express.js
